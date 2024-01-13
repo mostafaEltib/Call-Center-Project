@@ -1,3 +1,4 @@
+![Dashboard](https://github.com/mostafaEltib/Call-Center-Project/assets/108897691/98e814dd-89c3-4b75-a011-84fb31d1838d)
 # Call-Center-Project
 ## Implementation a Call center Data Analysis Project On Customer Service Career using Power_BI .
 
