@@ -52,7 +52,7 @@ After understanding business need and finishing data analysis,
 and answering  the questions<br /> 
 This is some recommendation <br />
 <br />
-1.total answered calls 18.92 % of total calls,the manager should increase the agents <br />
+1.total un answered calls 18.92 % of total calls,the manager should increase the agents <br />
 2.percentage of calls not resolved 27.08% of total calls ,should optimise agent training to handle topics problem  especially streaming and technical support issues <br />
 3.encourage Jim and Dan for their achievements <br />
 
